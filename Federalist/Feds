@@ -1,0 +1,7 @@
+Given: 3 text files
+1) written by Hamilton
+2) written by Madison
+3) Unknown document 
+We will figure out ratio of log probabilities that log(hamilton wrote the document given the unknown document / madison wrote the document given the unknown document)
+This is done by making word:probability maps of each document written by madison and hamilton fllowed by creating a word count map of the unknown document and working
+through the equation.
